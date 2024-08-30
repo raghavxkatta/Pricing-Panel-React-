@@ -1,5 +1,5 @@
 import React from "react"
-import PricingPanel from "./PricingPanel"
+import PricingPanel from "./Pricing"
 function App(){
 return(
     <div className="App">

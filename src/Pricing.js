@@ -61,4 +61,4 @@ function PricingPanel() {
         </div>
     )
 }
-export default PricingPanel;
+export default Pricing;
