@@ -1,12 +1,11 @@
 import React from "react";
 import "./PricingPlan.css";
-import Header from "../../components/Header";
-import Footer from "../../components/Footer";
+
 
 function PricingPlan() {
     return (
         <div>
-            <Header />
+      
             <div className="box">
                 <h2>Pricing Plans</h2>
                 <table>
@@ -69,7 +68,7 @@ function PricingPlan() {
                 </table>
             </div>
             <br />
-            <Footer />
+          
         </div>
     );
 }
